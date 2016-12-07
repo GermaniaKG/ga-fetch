@@ -1,0 +1,28 @@
+{
+  "name": "ga-fetch",
+  "version": "1.0.0-beta",
+  "description": "Wrapper around whatwg-fetch and es6-promise",
+  "keywords": [],
+  "repository": "bitbucket:germania/ga-fetch",
+  "author": "Carsten Witt, Germania KG <carstenwitt@germania-kg.de> (https://germania-kg.de)",
+  "homepage": "https://germania-kg.de",
+  "license": "MIT",
+  "main": "dist/index.js",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-jshint": "^2.0.4",
+    "gulp-sourcemaps": "^1.6.0",
+    "gulp-uglify": "^1.5.1",
+    "gulp-util": "^3.0.7",
+    "jshint": "^2.9.4",
+    "jshint-stylish": "^2.1.0"
+  },
+  "dependencies": {
+    "es6-promise": "^4.0.5",
+    "whatwg-fetch": "^2.0.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
