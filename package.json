@@ -1,6 +1,6 @@
 {
   "name": "ga-fetch",
-  "version": "1.0.0-beta",
+  "version": "1.0.0",
   "description": "Wrapper around whatwg-fetch and es6-promise",
   "keywords": [],
   "repository": "bitbucket:germania/ga-fetch",
